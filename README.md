@@ -199,6 +199,6 @@ This module lets you authenticate endpoints using a JSON web token. It is intend
 
 Email: [gennuso.biagio@gmail.com](mailto:gennuso.biagio@gmail.com)
 
-Github: [Vegapp](https://github.com/bilabixxx/Loginapp)
+Github: [LoginApp](https://github.com/bilabixxx/Loginapp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
